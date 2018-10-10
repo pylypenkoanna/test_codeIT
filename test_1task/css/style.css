@@ -1,0 +1,28 @@
+body{
+    background-color: #f2f3e6;
+}
+.container{
+    margin: 5% auto;
+    width: 50%;
+    padding: 10px;
+    outline: 2px solid;
+    outline-color: #cfe1e3;
+    background-color: #cfe1e3;
+
+}
+h1{
+    text-align: center;
+    font-weight: 300;
+    background-color: #438D94;
+    border-radius: 4px;
+}
+
+.btn{
+    background-color: #438D94;
+    border-color: #438D94;
+}
+.btn:hover {
+    background-color: #9FA9AA;
+    border-color: #9FA9AA;
+}
+
